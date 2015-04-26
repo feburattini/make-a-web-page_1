@@ -1,0 +1,19 @@
+body {
+	font-family: Helvetica, sans-serif;
+	background: #e3e3e3;
+	margin: auto;
+	width: 80%;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+.lesson-1, .lesson-2 {
+	font-size: 30px;
+}
+
+.concept-1, .concept-2, .concept-3, .concept-4, .concept-5 {
+	font-size: 15px;
+	color: #000000;
+}
